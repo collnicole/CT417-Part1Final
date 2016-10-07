@@ -1,3 +1,5 @@
+package com.mycompany.studentregpart1;
+
 import java.util.ArrayList;
 
 /*

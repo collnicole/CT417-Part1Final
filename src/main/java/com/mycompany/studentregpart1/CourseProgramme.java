@@ -1,3 +1,9 @@
+package com.mycompany.studentregpart1;
+//specify package name in course programme, module and student
+//copy and paste from netbeans project int repo
+//git add ., git commit -m "message", git push -u origin master
+//get commit id in jitpack
+//paste it into dependencies in pom
 
 import java.util.ArrayList;
 import org.joda.time.*;
